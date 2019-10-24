@@ -21,6 +21,7 @@ StorageAccountSync.exe ^
   --key-vault-url https://backup-vault.vault.<region>.<FQDN> ^
   --secret-name StorageAccountSasConnectionString ^
   --verbose
+```
 
 ## Setup
 
